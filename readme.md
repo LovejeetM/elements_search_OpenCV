@@ -14,6 +14,7 @@ The core of this project lies in a series of image processing steps designed to 
 ![Elements Search Example](./example.png)
 
 ### The Process
+---
 
 **Grayscale Conversion:** The first step is to convert the screenshot from color to grayscale. This simplifies the image and is a common prerequisite for many image processing operations, as it reduces the amount of data that needs to be processed.
 
